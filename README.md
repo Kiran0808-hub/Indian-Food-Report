@@ -1,2 +1,2 @@
 # Indian-Food-Report
-Indian Food Analisis Dashboad
+Indian Food Analisis Report Dashboard
